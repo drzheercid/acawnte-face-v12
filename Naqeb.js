@@ -1,6 +1,6 @@
+const client = new Discord.Client({ ws: { properties: { $browser: "Discord Android" }} })
 const Discord = require("discord.js");
 const myid = ['id owner']
-const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
